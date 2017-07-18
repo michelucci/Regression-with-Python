@@ -7,6 +7,8 @@ As usual, I Keep all my code on this github respository. So feel free to check t
 
 Jupyter Notebook: [LINK](https://github.com/michelucci/Regression-with-Python/blob/master/(Non)%20linear%20fit%20in%20Python.ipynb)
 
+You can find more projects I worked on on my blog [https://udata.science](https://udata.science).
+
 Commets and Feedback is, as usual, welcome.
 
 Umberto Michelucci
