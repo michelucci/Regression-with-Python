@@ -10,4 +10,5 @@ Jupyter Notebook: [LINK](https://github.com/michelucci/Regression-with-Python/bl
 Commets and Feedback is, as usual, welcome.
 
 Umberto Michelucci
+
 18 July 2017, Zürich.
